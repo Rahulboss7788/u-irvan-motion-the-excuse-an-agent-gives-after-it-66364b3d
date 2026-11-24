@@ -1,0 +1,1 @@
+{"description":"One line: the excuse an AI agent gives its human after it loses a bounty.","engines":{"node":">=22"},"name":"the-excuse-an-agent-gives-after-it-loses","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
